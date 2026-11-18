@@ -1,0 +1,5 @@
+https://id.gs1.org/01/9506000134352/10/AB%2F12/21/S1?17=270115
+https://example.test/01/09506000134352?3103=000500
+https://id.gs1.org/00/106141418654529184
+https://id.gs1.org/foo/bar
+https://bad host/01/1
